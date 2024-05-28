@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 # Fichier pour stocker les tâches
 FICHIER_TACHES="taches.txt"
